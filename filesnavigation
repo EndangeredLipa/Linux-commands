@@ -1,21 +1,21 @@
 
 
-1. LS          -    This command will help list all the files and folders.
+ LS          -    This command will help list all the files and folders.
 
-2. Tuoch       -    This is use to create a file
+ Tuoch       -    This is use to create a file
 
-3. Mkdir       -    This command is use to create a folder
+ Mkdir       -    This command is use to create a folder
 
-4. Ls -al      -    This command is use to list all files and folders including hidden file in a long format
+ Ls -al      -    This command is use to list all files and folders including hidden file in a long format
 
-5. cp          -    This is use to copy a file or folder
+ cp          -    This is use to copy a file or folder
 
-6. mv          -    It is use to move a folder or file.
+ mv          -    It is use to move a folder or file.
 
-7. rm          -    It is use to delete a file
+ rm          -    It is use to delete a file
 
-8. rm -f       -    This is to forcefully remove a folder with contents
+ rm -f       -    This is to forcefully remove a folder with contents
 
-9. Cat         -    This command is use to see the contents of a file
+ Cat         -    This command is use to see the contents of a file
 
-10. pwd        -    This command will show you your present directory.
+ pwd        -    This command will show you your present directory.
