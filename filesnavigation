@@ -1,12 +1,12 @@
 
 
- LS          -    This command will help list all the files and folders.
+ ls          -    This command will help list all the files and folders.
 
- Tuoch       -    This is use to create a file
+ tuoch       -    This is use to create a file
 
- Mkdir       -    This command is use to create a folder
+ mkdir       -    This command is use to create a folder
 
- Ls -al      -    This command is use to list all files and folders including hidden file in a long format
+ ls -al      -    This command is use to list all files and folders including hidden file in a long format
 
  cp          -    This is use to copy a file or folder
 
@@ -16,6 +16,6 @@
 
  rm -f       -    This is to forcefully remove a folder with contents
 
- Cat         -    This command is use to see the contents of a file
+ cat         -    This command is use to see the contents of a file
 
  pwd        -    This command will show you your present directory.
